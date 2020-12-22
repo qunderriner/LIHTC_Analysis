@@ -1,0 +1,121 @@
+,Source,Term (Months),Interest Rate,Amount of Funds,Funding Type,File Name,Financing_sub_cat
+0,First Citizens Bank,,,"$6,350,000",Construction Financing,Blairs-School,Bank Loan
+1,VHDA REACH,360.0,2.95%,"$1,000,000",Permanent Financing,Blairs-School,State Grant
+2,VHDA TAXABLE,360.0,6.50%,"$450,000",Permanent Financing,Blairs-School,Public Private Partnership
+3,Donation of Property,,,"$530,483",Subsidized Financing,Blairs-School,Land Donation
+4,First Mortgage,360.0,4.23%,"$9,796,000",Permanent Financing,Fairlington-Presbyterian,Bank Loan
+5,Alexandria City Loan,360.0,1.00%,"$7,650,000",Permanent Financing,Fairlington-Presbyterian,Local Grant
+6,First Citizens Bank,,,"$5,000,000",Construction Financing,Groom-School,Bank Loan
+7,VHDA REACH,360.0,2.95%,"$1,200,000",Permanent Financing,Groom-School,State Grant
+8,DHCD HOME,360.0,3.00%,"$450,000",Permanent Financing,Groom-School,State Grant
+9,Town of South Hill,216.0,0.00%,"$197,500",Permanent Financing,Groom-School,Local Grant
+10,TBD,,,,Construction Financing,Crescent-Halls,Other
+11,VHDA SPARC,360.0,0.50%,"$3,000,000",Permanent Financing,Crescent-Halls,State Grant
+12,DHCD (AHTF),240.0,1.00%,"$800,000",Permanent Financing,Crescent-Halls,State Grant
+13,Sponsor Loan (FHLB),360.0,0.00%,"$500,000",Permanent Financing,Crescent-Halls,Federal Home Loan Bank
+14,Sponsor Loan (City of Charlottesville),360.0,0.00%,"$1,875,000",Permanent Financing,Crescent-Halls,Local Grant
+15,Sponsor Loan (CCF),360.0,0.00%,"$3,575,245",Permanent Financing,Crescent-Halls,Local Grant
+16,VHDA Const. Loan,,,"$3,558,904",Construction Financing,Senseny-Place,State Grant
+17,VHDA Taxable,420.0,5.00%,"$1,668,904",Permanent Financing,Senseny-Place,State Grant
+18,VHDA REACH,420.0,2.95%,"$1,890,000",Permanent Financing,Senseny-Place,State Grant
+19,VHTF/Sponsor Loan,420.0,1.00%,"$700,000",Permanent Financing,Senseny-Place,State Grant
+20,Construction & Bridge Loan Equity LP,,,"$21,335,866",Construction Financing,Post-West-Nine,Bank Loan
+21,VHDA Debt,420.0,4.52%,"$9,627,187",Permanent Financing,Post-West-Nine,State Grant
+22,AHIF,456.0,1.00%,"$5,790,000",Permanent Financing,Post-West-Nine,Local Grant
+23,American Legion Seller No,456.0,3.75%,"$2,000,000",Permanent Financing,Post-West-Nine,Local Grant
+24,Bridge Loan,,,"$11,685,783",Construction Financing,Mt.-Sterling,Bank Loan
+25,Tax Credit Equity,,,"$919,908",Construction Financing,Mt.-Sterling,Federal Housing Credit Equity
+26,VHDA Perm,420.0,3.74%,"$4,996,546",Permanent Financing,Mt.-Sterling,State Grant
+27,Loudoun County HTF,504.0,2.75%,"$2,380,000",Permanent Financing,Mt.-Sterling,Local Grant
+28,Permit Fee Waiver,,,"$65,000",Subsidized Financing,Mt.-Sterling,Local Grant
+29,Access National Bank,,,"$5,000,000",Construction Financing,Lassiter-Courts,Bank Loan
+30,VHDA SPARC,360.0,1.50%,"$1,500,000",Permanent Financing,Lassiter-Courts,State Grant
+31,DHCD National Trust Fund,360.0,1.50%,"$800,000",Permanent Financing,Lassiter-Courts,State Grant
+32,Sponsor Loan (Leashold Interest Seller N,360.0,0.00%,"$300,000",Permanent Financing,Lassiter-Courts,Local Grant
+33,Sponsor Loan (City HOME Funds),360.0,0.00%,"$600,000",Permanent Financing,Lassiter-Courts,Local Grant
+34,Sponsor Loan (RH Factor),360.0,0.00%,"$1,112,703",Permanent Financing,Lassiter-Courts,Local Grant
+35,Sponsor Loan (PH Operating Reserves),360.0,0.00%,"$400,000",Permanent Financing,Lassiter-Courts,Local Grant
+36,Sponsor Loan (NNRHA Development Resources),360.0,0.00%,"$214,785",Permanent Financing,Lassiter-Courts,Local Grant
+37,Housing,,,,Subsidized Financing,Lassiter-Courts,Other
+38,First Mortgage,360.0,4.21%,"$4,990,000",Permanent Financing,Knightsbridge,Bank Loan
+39,Sponsor Subsidy Financing,360.0,2.91%,"$500,000",Permanent Financing,Knightsbridge,Local Grant
+40,TBD,,,"$3,000,000",Construction Financing,Maury-River-Place,Other
+41,RD 515,600.0,1.00%,"$1,212,408",Permanent Financing,Maury-River-Place,Federal Grant
+42,VHDA REACH,360.0,2.95%,"$800,000",Permanent Financing,Maury-River-Place,State Grant
+43,VHDA Taxable,360.0,5.50%,"$225,000",Permanent Financing,Maury-River-Place,State Grant
+44,VHDA,360.0,6.03%,"$2,960,000",Permanent Financing,Market-Heights,State Grant
+45,TBD,,,"$9,000,000",Construction Financing,Cool-Lane,Other
+46,VHDA REACH Loan/MUMI,360.0,1.95%,"$3,675,000",Permanent Financing,Cool-Lane,State Housing Credit Equity
+47,DHCD NHTF,360.0,1.00%,"$800,000",Permanent Financing,Cool-Lane,State Grant
+48,DHCD HOME,240.0,1.00%,"$800,000",Permanent Financing,Cool-Lane,State Grant
+49,DHCD VHTF,240.0,1.00%,"$750,000",Permanent Financing,Cool-Lane,State Grant
+50,Henrico CDBG/ HOME,12000.0,1.00%,"$1,000,000",Permanent Financing,Cool-Lane,Local Grant
+51,Richmond CDBG/ HOME/,12000.0,1.00%,"$600,000",Permanent Financing,Cool-Lane,Local Grant
+52,Chesterfield CDBG/ HOME,12000.0,1.00%,"$250,000",Permanent Financing,Cool-Lane,Local Grant
+53,FHLB of Atlanta,12000.0,4.00%,"$500,000",Permanent Financing,Cool-Lane,Bank Loan
+54,Bon Secours/ VCU Health,12000.0,4.00%,"$300,000",Permanent Financing,Cool-Lane,Public Private Partnership
+55,MUMI,360.0,2.95%,"$625,000",Permanent Financing,Cool-Lane,State Housing Credit Equity
+56,Donated Land/ Building,,,"$2,710,255",Subsidized Financing,Cool-Lane,Land Donation
+57,VHDA SPARC,360.0,0.50%,"$700,000",Permanent Financing,Spratley-House,State Grant
+58,DHCD National Trust Fund,240.0,0.50%,"$700,000",Permanent Financing,Spratley-House,State Grant
+59,Sponsor Loan (NNRHA Resources),360.0,0.00%,"$1,305,000",Permanent Financing,Spratley-House,Local Grant
+60,VHDA,360.0,5.75%,"$1,500,000",Permanent Financing,Laurel-Ridge,State Grant
+61,VHDA REACH,360.0,2.95%,"$1,120,000",Permanent Financing,Laurel-Ridge,State Grant
+62,M&T Bank,,,"$24,700,000",Construction Financing,Arrowbrook,Bank Loan
+63,M&T Bank,420.0,4.75%,"$18,200,000",Permanent Financing,Arrowbrook,Bank Loan
+64,Housing Blueprint,420.0,2.00%,"$994,000",Permanent Financing,Arrowbrook,Other
+65,Below‐Market Ground Lease,,,"$8,268,000",Subsidized Financing,Arrowbrook,Land Donation
+66,USDA PRLF,276.0,2.85%,"$62S,000",Permanent Financing,Kilmarnock-Village,Federal Housing Credit Equity
+67,FHTF,360.0,3.00%,"$150,000",Permanent Financing,Kilmarnock-Village,State Grant
+68,USDA RD,360.0,1.00%,"$405,179",Permanent Financing,Kilmarnock-Village,Federal Grant
+69,FHLB,360.0,0.00%,"$300,000",Permanent Financing,Kilmarnock-Village,Federal Home Loan Bank
+70,TBD,,,,Construction Financing,South-First-Street,Other
+71,VHDA SPARC,360.0,2.00%,"$3,000,000",Permanent Financing,South-First-Street,State Grant
+72,DHCD (AHTF),360.0,1.00%,"$401,800",Permanent Financing,South-First-Street,State Grant
+73,Sponsor Loan (Seller Note),360.0,0.00%,"$100,000",Permanent Financing,South-First-Street,Local Grant
+74,Sponsor Loan (CCF),360.0,0.00%,"$1,265,000",Permanent Financing,South-First-Street,Local Grant
+75,Sponsor Loan (City of Charlottesville),360.0,0.00%,"$1,125,000",Permanent Financing,South-First-Street,Local Grant
+76,TBD,,,"$4,000,000",Construction Financing,Powhatan-Terrace,Other
+77,VHDA REACH,360.0,2.95%,"$2,000,000",Permanent Financing,Powhatan-Terrace,State Grant
+78,DHCD HOME/VHTF,12000.0,1.00%,"$700,000",Permanent Financing,Powhatan-Terrace,State Grant
+79,Local Fdtn,,,"$250,000",Grants,Powhatan-Terrace,Local Grant
+80,FHLBA,,,"$360,000",Subsidized Financing,Powhatan-Terrace,Federal Home Loan Bank
+81,TBD,,,,Construction Financing,Poplar-Creek,Other
+82,VHDA REACH,360.0,1.95%,"$158,000",Permanent Financing,Poplar-Creek,State Grant
+83,DHCD HOME,360.0,0.50%,"$700,000",Permanent Financing,Poplar-Creek,State Grant
+84,FHLB AHP,360.0,0.00%,"$250,000",Permanent Financing,Poplar-Creek,Federal Home Loan Bank
+85,DHCD Planning Grant,,,"$30,000",Grants,Poplar-Creek,State Grant
+86,Donated Land,,,"$73,600",Subsidized Financing,Poplar-Creek,Land Donation
+87,FHLB AHP,,,"$160,000",Subsidized Financing,Poplar-Creek,Federal Home Loan Bank
+88,TBD,,,"$11,000,000",Construction Financing,Brook-Villas,Other
+89,TBD,420.0,5.75%,"$5,950,000",Permanent Financing,Brook-Villas,Other
+90,BB&T,,,"$1,000,000",Construction Financing,Cross-Creek,Bank Loan
+91,USDA RD,600.0,1.00%,"$660,840",Permanent Financing,Cross-Creek,Federal Grant
+92,VHDA,420.0,2.95%,"$380,000",Permanent Financing,Cross-Creek,State Grant
+93,Bank of America,,,"$6,500,000",Construction Financing,Carlton-Views-III,Bank Loan
+94,VHDA Taxable,360.0,5.75%,"$500,000",Permanent Financing,Carlton-Views-III,State Grant
+95,VHDA SPARC,360.0,2.95%,"$900,000",Permanent Financing,Carlton-Views-III,State Grant
+96,VHDA Match,360.0,1.95%,"$1,440,000",Permanent Financing,Carlton-Views-III,Public Private Partnership
+97,12/15/19,,,Bennett Atwill,Construction Financing,PABP,Other
+98,VHDA  Taxable,420.0,5.75%,"$2,500,000",Permanent Financing,PABP,State Grant
+99,VHDA REACH,420.0,2.95%,"$1,400,000",Permanent Financing,PABP,State Grant
+100,TBD,,,"$5,000,000",Construction Financing,Daffodil-Gardens,Other
+101,VHDA REACH,360.0,1.50%,"$1,450,000",Permanent Financing,Daffodil-Gardens,State Grant
+102,DHCD HOME,240.0,0.50%,"$700,000",Permanent Financing,Daffodil-Gardens,State Grant
+103,DHCD VHTF,240.0,0.50%,"$325,000",Permanent Financing,Daffodil-Gardens,State Grant
+104,FHLB AHP,360.0,0.00%,"$160,000",Permanent Financing,Daffodil-Gardens,Federal Home Loan Bank
+105,VHDA SIP,,,"$500,000",Grants,Daffodil-Gardens,Public Private Partnership
+106,Bay Aging ‐ land donation,,,"$196,328",Subsidized Financing,Daffodil-Gardens,Land Donation
+107,VHDA,420.0,4.14%,"$9,196,718",Permanent Financing,Friendship-Court,State Grant
+108,Charlottesville Grants,,,"$5,940,000",Permanent Financing,Friendship-Court,Local Grant
+109,Sponsor Loan,,,"$1,000,000",Permanent Financing,Friendship-Court,Local Grant
+110,Merchants Bank,,,"$8,200,000",Construction Financing,Holley-Point,Bank Loan
+111,Merchants Capital,180.0,6.75%,"$2,150,000",Permanent Financing,Holley-Point,Bank Loan
+112,"Valhalla Mortgage, LLC",,,"$105,000",Permanent Financing,Holley-Point,Bank Loan
+113,Bank of America,,,"$10,000,000",Construction Financing,Brady-Square,Bank Loan
+114,VHDA REACH,420.0,2.95%,"$1,320,000",Permanent Financing,Brady-Square,State Grant
+115,VHDA Taxable Bonds,420.0,5.50%,"$2,775,000",Permanent Financing,Brady-Square,Public Private Partnership
+116,REACH,420.0,2.95%,"$2,000,000",Permanent Financing,,State Grant
+117,Taxable REACH,420.0,5.50%,"$1,000,000",Permanent Financing,,State Grant
+118,RRHA Seller Note,480.0,0%,"$480,000",Permanent Financing,,Bank Loan
+119,"TCB Loan (FHLB, DHCD, other Resources) ",480.0,0%,"$686,774",Permanent Financing,,Federal Home Loan Bank

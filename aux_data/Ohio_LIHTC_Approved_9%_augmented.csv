@@ -1,0 +1,313 @@
+,Project Name,Wage Requirement,Project Population,Building Type,Construction Type,Census Tract,Total Project Cost,Total Units,Source,Amount of Funds,Funding Type,Financing_sub_cat
+0,SheltonGardens,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,12984615,137,Tax Credit Equity,"4,135,172.80",Construction Financing Sources,Tax Credit
+1,SheltonGardens,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,12984615,137,Deferred Developer Fee,"1,800,000.00",Construction Financing Sources,Deferred Developer Fee
+2,SheltonGardens,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,12984615,137,Construction Loan,"5,200,000.00",Construction Financing Sources,Bank Loan
+3,SheltonGardens,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,12984615,137,Other1,"599,442.20",Construction Financing Sources,Other
+4,SheltonGardens,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,12984615,137,Other2,"1,250,000.00",Construction Financing Sources,Other
+5,SheltonGardens,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,12984615,137,Tax Credit Equity,"7,518,496.00",Permanent Financing Sources,Tax Credit
+6,SheltonGardens,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,12984615,137,Deferred Developer Fee,"266,119.00",Permanent Financing Sources,Deferred Developer Fee
+7,SheltonGardens,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,12984615,137,"Permanent First Loan, Hard Debt","5,200,000.00",Permanent Financing Sources,Bank Loan
+8,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,Tax Credit Equity,"279,220.00",Construction Financing Sources,Tax Credit
+9,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,HDAP,"300,000.00",Construction Financing Sources,State Housing Credit Equity
+10,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,Deferred Developer Fee,"1,709,563.00",Construction Financing Sources,Deferred Developer Fee
+11,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,Construction Loan,"5,960,000.00",Construction Financing Sources,Bank Loan
+12,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,Other1,"500,000.00",Construction Financing Sources,Other
+13,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,Other2,"1,250,000.00",Construction Financing Sources,Other
+14,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,Other3,"2,000,000.00",Construction Financing Sources,Other
+15,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,Tax Credit Equity,"8,717,639.00",Permanent Financing Sources,Tax Credit
+16,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,HDAP: OHTF/HOME,"300,000.00",Permanent Financing Sources,State Housing Credit Equity
+17,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,Deferred Developer Fee,"56,144.00",Permanent Financing Sources,Deferred Developer Fee
+18,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,"Permanent First Loan, Hard Debt","2,425,000.00",Permanent Financing Sources,Bank Loan
+19,JenkinsStreetLofts,None,Families,Multifamily,New Construction,39049005820,11998783,60,Other1,"500,000.00",Permanent Financing Sources,Other
+20,EasternWoodsSenior,None,Seniors,Multifamily,New Construction,39063000200,8879220,50,Tax Credit Equity,"2,941,056.00",Construction Financing Sources,Tax Credit
+21,EasternWoodsSenior,None,Seniors,Multifamily,New Construction,39063000200,8879220,50,Construction Loan,"2,919,229.00",Construction Financing Sources,Bank Loan
+22,EasternWoodsSenior,None,Seniors,Multifamily,New Construction,39063000200,8879220,50,Other1,"500,000.00",Construction Financing Sources,Other
+23,EasternWoodsSenior,None,Seniors,Multifamily,New Construction,39063000200,8879220,50,Other2,"1,250,000.00",Construction Financing Sources,Other
+24,EasternWoodsSenior,None,Seniors,Multifamily,New Construction,39063000200,8879220,50,Other3,"1,268,935.00",Construction Financing Sources,Other
+25,EasternWoodsSenior,None,Seniors,Multifamily,New Construction,39063000200,8879220,50,Tax Credit Equity,"7 ,352,640.00",Permanent Financing Sources,Tax Credit
+26,EasternWoodsSenior,None,Seniors,Multifamily,New Construction,39063000200,8879220,50,"Permanent First Loan, Hard Debt","1 ,026,580.00",Permanent Financing Sources,Bank Loan
+27,EasternWoodsSenior,None,Seniors,Multifamily,New Construction,39063000200,8879220,50,Other1,"5 00,000.00",Permanent Financing Sources,Other
+28,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Tax Credit Equity,"130,505.00",Construction Financing Sources,Tax Credit
+29,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Deferred Developer Fee,"1,187,000.00",Construction Financing Sources,Deferred Developer Fee
+30,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Construction Loan,"4,500,000.00",Construction Financing Sources,Bank Loan
+31,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Other2,"500,000.00",Construction Financing Sources,Other
+32,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Other3,"132,500.00",Construction Financing Sources,Other
+33,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Other4,"1,250,000.00",Construction Financing Sources,Other
+34,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Tax Credit Equity,"4 ,920,005.00",Permanent Financing Sources,Tax Credit
+35,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,"Permanent First Loan, Hard Debt","1 ,750,000.00",Permanent Financing Sources,Bank Loan
+36,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Other2,"5 00,000.00",Permanent Financing Sources,Other
+37,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Other3,"5 30,000.00",Permanent Financing Sources,Other
+38,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Tax Credit Equity,"130,505.00",Construction Financing Sources,Tax Credit
+39,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Deferred Developer Fee,"1,187,000.00",Construction Financing Sources,Deferred Developer Fee
+40,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Construction Loan,"4,500,000.00",Construction Financing Sources,Bank Loan
+41,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Other2,"500,000.00",Construction Financing Sources,Other
+42,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Other3,"132,500.00",Construction Financing Sources,Other
+43,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Other4,"1,250,000.00",Construction Financing Sources,Other
+44,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Tax Credit Equity,"4 ,920,005.00",Permanent Financing Sources,Tax Credit
+45,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,"Permanent First Loan, Hard Debt","1 ,750,000.00",Permanent Financing Sources,Bank Loan
+46,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Other2,"5 00,000.00",Permanent Financing Sources,Other
+47,CarpenterHall,0,Families,Multifamily,Rehabilitation,39009973902,7700005,53,Other3,"5 30,000.00",Permanent Financing Sources,Other
+48,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,Tax Credit Equity,"2,400,000.00",Construction Financing Sources,Tax Credit
+49,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,Deferred Developer Fee,"1,565,548.00",Construction Financing Sources,Deferred Developer Fee
+50,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,Construction Loan,"3,604,500.00",Construction Financing Sources,Bank Loan
+51,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,Other1,"11,644,281.00",Construction Financing Sources,Other
+52,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,Other2,"1,250,000.00",Construction Financing Sources,Other
+53,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,Tax Credit Equity,"1 1,873,813.00",Permanent Financing Sources,Tax Credit
+54,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,Historic Tax Credit Equity,"1 ,723,018.00",Permanent Financing Sources,Historic Tax Credit
+55,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,Deferred Developer Fee,"3 86,318.00",Permanent Financing Sources,Deferred Developer Fee
+56,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,"Permanent First Loan, Hard Debt","3 ,604,500.00",Permanent Financing Sources,Bank Loan
+57,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,Other1,"2 42,562.00",Permanent Financing Sources,Other
+58,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,Other2,"2 ,034,118.00",Permanent Financing Sources,Other
+59,LongfellowSchool,Davis Bacon,Seniors,Multifamily,New Construction,39035117102,20464329,93,Other3,"6 00,000.00",Permanent Financing Sources,Other
+60,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,Tax Credit Equity,"704,295.00",Construction Financing Sources,Tax Credit
+61,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,HDAP,"600,000.00",Construction Financing Sources,State Housing Credit Equity
+62,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,Deferred Developer Fee,"217,500.00",Construction Financing Sources,Deferred Developer Fee
+63,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,Construction Loan,"6,250,000.00",Construction Financing Sources,Bank Loan
+64,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,Other1,"1,250,000.00",Construction Financing Sources,Other
+65,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,Other2,"893,014.00",Construction Financing Sources,Other
+66,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,Tax Credit Equity,"7 ,042,950.00",Permanent Financing Sources,Tax Credit
+67,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,HDAP: OHTF/HOME,"6 00,000.00",Permanent Financing Sources,State Housing Credit Equity
+68,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,Deferred Developer Fee,"2 17,500.00",Permanent Financing Sources,Deferred Developer Fee
+69,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,"Permanent First Loan, Hard Debt","1 ,450,000.00",Permanent Financing Sources,Bank Loan
+70,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,Permanent Second Loan,"3 25,000.00",Permanent Financing Sources,Bank Loan
+71,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,Other1,"1 0,000.00",Permanent Financing Sources,Other
+72,WoodStreetLofts,None,Families,Multifamily,New Construction,39109315300,9914809,52,Other2,"2 69,359.00",Permanent Financing Sources,Other
+73,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,Tax Credit Equity,"85,000.00",Construction Financing Sources,Tax Credit
+74,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,HDAP,"300,000.00",Construction Financing Sources,State Housing Credit Equity
+75,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,Deferred Developer Fee,"701,439.00",Construction Financing Sources,Deferred Developer Fee
+76,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,Construction Loan,"3,550,000.00",Construction Financing Sources,Bank Loan
+77,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,Affordable Housing Trust,"3,000,000.00",Construction Financing Sources,Affordable Housing Trust
+78,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,City of Columbus/Franklin County,"2,250,000.00",Construction Financing Sources,Other
+79,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,FHLB AHP,"189,000.00",Construction Financing Sources,Federal Home Loan Bank
+80,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,Donations,"1,000.00",Construction Financing Sources,Local Grant
+81,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,OHFA HDL,"1,750,000.00",Construction Financing Sources,Other
+82,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,Tax Credit Equity,"8 ,505,000.00",Permanent Financing Sources,Tax Credit
+83,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,HDAP: OHTF/HOME,"3 00,000.00",Permanent Financing Sources,State Housing Credit Equity
+84,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,Deferred Developer Fee,"1 4,439.00",Permanent Financing Sources,Deferred Developer Fee
+85,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,City of Columbus,"2 ,000,000.00",Permanent Financing Sources,Local Grant
+86,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,Franklin County,"2 50,000.00",Permanent Financing Sources,Local Grant
+87,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,FHLB Cin. AHP,"7 56,000.00",Permanent Financing Sources,Federal Home Loan Bank
+88,CreeksidePlaceApartments,Davis Bacon,Service Enriched,Multifamily,New Construction,39049002520,11826439,63,Donations from Huntington and CHN,"1 ,000.00",Permanent Financing Sources,Local Grant
+89,MontgomeryCrossing,None,Families,Multifamily,New Construction,39005970800,8246123,50,Tax Credit Equity,"209,574.00",Construction Financing Sources,Tax Credit
+90,MontgomeryCrossing,None,Families,Multifamily,New Construction,39005970800,8246123,50,HDAP,"300,000.00",Construction Financing Sources,State Housing Credit Equity
+91,MontgomeryCrossing,None,Families,Multifamily,New Construction,39005970800,8246123,50,Deferred Developer Fee,"1,116,549.00",Construction Financing Sources,Deferred Developer Fee
+92,MontgomeryCrossing,None,Families,Multifamily,New Construction,39005970800,8246123,50,Construction Loan,"5,370,000.00",Construction Financing Sources,Bank Loan
+93,MontgomeryCrossing,None,Families,Multifamily,New Construction,39005970800,8246123,50,Other1,"1,250,000.00",Construction Financing Sources,Other
+94,MontgomeryCrossing,None,Families,Multifamily,New Construction,39005970800,8246123,50,Tax Credit Equity,"6,842,497.00",Permanent Financing Sources,Tax Credit
+95,MontgomeryCrossing,None,Families,Multifamily,New Construction,39005970800,8246123,50,HDAP: OHTF/HOME,"300,000.00",Permanent Financing Sources,State Housing Credit Equity
+96,MontgomeryCrossing,None,Families,Multifamily,New Construction,39005970800,8246123,50,Deferred Developer Fee,"78,526.00",Permanent Financing Sources,Deferred Developer Fee
+97,MontgomeryCrossing,None,Families,Multifamily,New Construction,39005970800,8246123,50,"Permanent First Loan, Hard Debt","1,025,000.00",Permanent Financing Sources,Bank Loan
+98,MontgomeryCrossing,None,Families,Multifamily,New Construction,39005970800,8246123,50,Other1,100,Permanent Financing Sources,Other
+99,CasaNuevaApartments,Davis Bacon,Families,Multifamily,Rehabilitation,39143961600,8827241,64,Tax Credit Equity,"4,019,168.00",Construction Financing Sources,Tax Credit
+100,CasaNuevaApartments,Davis Bacon,Families,Multifamily,Rehabilitation,39143961600,8827241,64,Construction Loan,"2,075,793.00",Construction Financing Sources,Bank Loan
+101,CasaNuevaApartments,Davis Bacon,Families,Multifamily,Rehabilitation,39143961600,8827241,64,Other1,"42,980.00",Construction Financing Sources,Other
+102,CasaNuevaApartments,Davis Bacon,Families,Multifamily,Rehabilitation,39143961600,8827241,64,Other2,"13,897.00",Construction Financing Sources,Other
+103,CasaNuevaApartments,Davis Bacon,Families,Multifamily,Rehabilitation,39143961600,8827241,64,Other3,"1,425,403.00",Construction Financing Sources,Other
+104,CasaNuevaApartments,Davis Bacon,Families,Multifamily,Rehabilitation,39143961600,8827241,64,Other4,"1,250,000.00",Construction Financing Sources,Other
+105,CasaNuevaApartments,Davis Bacon,Families,Multifamily,Rehabilitation,39143961600,8827241,64,Tax Credit Equity,"6 ,363,630.00",Permanent Financing Sources,Tax Credit
+106,CasaNuevaApartments,Davis Bacon,Families,Multifamily,Rehabilitation,39143961600,8827241,64,Deferred Developer Fee,"3 30,941.00",Permanent Financing Sources,Deferred Developer Fee
+107,CasaNuevaApartments,Davis Bacon,Families,Multifamily,Rehabilitation,39143961600,8827241,64,"Permanent First Loan, Hard Debt","2 ,075,793.00",Permanent Financing Sources,Bank Loan
+108,CasaNuevaApartments,Davis Bacon,Families,Multifamily,Rehabilitation,39143961600,8827241,64,Other1,"4 2,980.00",Permanent Financing Sources,Other
+109,CasaNuevaApartments,Davis Bacon,Families,Multifamily,Rehabilitation,39143961600,8827241,64,Other2,"1 3,897.00",Permanent Financing Sources,Other
+110,TiffinPointeII,None,Families,Multifamily,New Construction,39147963200,8058092,56,Tax Credit Equity,"1,458,092.00",Construction Financing Sources,Tax Credit
+111,TiffinPointeII,None,Families,Multifamily,New Construction,39147963200,8058092,56,Construction Loan,"6,600,000.00",Construction Financing Sources,Bank Loan
+112,TiffinPointeII,None,Families,Multifamily,New Construction,39147963200,8058092,56,Tax Credit Equity,"7,290,462.00",Permanent Financing Sources,Tax Credit
+113,TiffinPointeII,None,Families,Multifamily,New Construction,39147963200,8058092,56,Deferred Developer Fee,"193,020.00",Permanent Financing Sources,Deferred Developer Fee
+114,TiffinPointeII,None,Families,Multifamily,New Construction,39147963200,8058092,56,"Permanent First Loan, Hard Debt","1,825,000.00",Permanent Financing Sources,Bank Loan
+115,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,Tax Credit Equity,"737,162.00",Construction Financing Sources,Tax Credit
+116,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,HDAP,"300,000.00",Construction Financing Sources,State Housing Credit Equity
+117,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,Deferred Developer Fee,"77,487.00",Construction Financing Sources,Deferred Developer Fee
+118,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,Construction Loan,"6,250,000.00",Construction Financing Sources,Bank Loan
+119,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,Other1,"1,250,000.00",Construction Financing Sources,Other
+120,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,Other2,"744,459.00",Construction Financing Sources,Other
+121,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,Tax Credit Equity,"7 ,371,621.00",Permanent Financing Sources,Tax Credit
+122,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,HDAP: OHTF/HOME,"3 00,000.00",Permanent Financing Sources,State Housing Credit Equity
+123,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,Deferred Developer Fee,"7 7,487.00",Permanent Financing Sources,Deferred Developer Fee
+124,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,"Permanent First Loan, Hard Debt","1 ,350,000.00",Permanent Financing Sources,Bank Loan
+125,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,Permanent Second Loan,"2 50,000.00",Permanent Financing Sources,Bank Loan
+126,WoosterLofts,None,Families,Multifamily,New Construction,39169000800,9359108,52,Other1,"1 0,000.00",Permanent Financing Sources,Other
+127,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,Tax Credit Equity,"131,653.00",Construction Financing Sources,Tax Credit
+128,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,HDAP,"540,000.00",Construction Financing Sources,State Housing Credit Equity
+129,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,Deferred Developer Fee,"508,389.82",Construction Financing Sources,Deferred Developer Fee
+130,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,Construction Loan,"3,718,742.00",Construction Financing Sources,Bank Loan
+131,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,Other1,"675,000.00",Construction Financing Sources,Other
+132,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,Other2,"1,250,000.00",Construction Financing Sources,Other
+133,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,Other3,"1,123,150.00",Construction Financing Sources,Other
+134,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,Tax Credit Equity,"5 ,236,358.00",Permanent Financing Sources,Tax Credit
+135,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,HDAP: OHTF/HOME,"6 00,000.00",Permanent Financing Sources,State Housing Credit Equity
+136,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,Historic Tax Credit Equity,"8 52,187.00",Permanent Financing Sources,Historic Tax Credit
+137,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,Deferred Developer Fee,"5 08,389.82",Permanent Financing Sources,Deferred Developer Fee
+138,Perseverance,None,Families,Multifamily,Mixed,39061000900,7946934,20,Other1,"7 50,000.00",Permanent Financing Sources,Other
+139,OxfordPlace,None,Seniors,Multifamily,Adaptive Reuse,39151700800,14873534,62,Tax Credit Equity,"7,025,886.00",Construction Financing Sources,Tax Credit
+140,OxfordPlace,None,Seniors,Multifamily,Adaptive Reuse,39151700800,14873534,62,Construction Loan,"5,000,000.00",Construction Financing Sources,Bank Loan
+141,OxfordPlace,None,Seniors,Multifamily,Adaptive Reuse,39151700800,14873534,62,Other1,"700,000.00",Construction Financing Sources,Other
+142,OxfordPlace,None,Seniors,Multifamily,Adaptive Reuse,39151700800,14873534,62,Other2,"897,648.00",Construction Financing Sources,Other
+143,OxfordPlace,None,Seniors,Multifamily,Adaptive Reuse,39151700800,14873534,62,Other3,"1,250,000.00",Construction Financing Sources,Other
+144,OxfordPlace,None,Seniors,Multifamily,Adaptive Reuse,39151700800,14873534,62,Tax Credit Equity,"9,199,080.00",Permanent Financing Sources,Tax Credit
+145,OxfordPlace,None,Seniors,Multifamily,Adaptive Reuse,39151700800,14873534,62,Historic Tax Credit Equity,"4,660,947.00",Permanent Financing Sources,Historic Tax Credit
+146,OxfordPlace,None,Seniors,Multifamily,Adaptive Reuse,39151700800,14873534,62,Deferred Developer Fee,"313,507.00",Permanent Financing Sources,Deferred Developer Fee
+147,OxfordPlace,None,Seniors,Multifamily,Adaptive Reuse,39151700800,14873534,62,Other1,"700,000.00",Permanent Financing Sources,Other
+148,SanteeLanding,None,Families,Multifamily,New Construction,39103417300,10075000,45,Tax Credit Equity,"1,170,000.00",Construction Financing Sources,Tax Credit
+149,SanteeLanding,None,Families,Multifamily,New Construction,39103417300,10075000,45,HDAP,"270,000.00",Construction Financing Sources,State Housing Credit Equity
+150,SanteeLanding,None,Families,Multifamily,New Construction,39103417300,10075000,45,Construction Loan,"7,385,000.00",Construction Financing Sources,Bank Loan
+151,SanteeLanding,None,Families,Multifamily,New Construction,39103417300,10075000,45,Other1,"1,250,000.00",Construction Financing Sources,Other
+152,SanteeLanding,None,Families,Multifamily,New Construction,39103417300,10075000,45,Tax Credit Equity,"9,200,000.00",Permanent Financing Sources,Tax Credit
+153,SanteeLanding,None,Families,Multifamily,New Construction,39103417300,10075000,45,HDAP: OHTF/HOME,"300,000.00",Permanent Financing Sources,State Housing Credit Equity
+154,SanteeLanding,None,Families,Multifamily,New Construction,39103417300,10075000,45,Deferred Developer Fee,"172,837.00",Permanent Financing Sources,Deferred Developer Fee
+155,SanteeLanding,None,Families,Multifamily,New Construction,39103417300,10075000,45,"Permanent First Loan, Hard Debt","1,052,939.00",Permanent Financing Sources,Bank Loan
+156,SanteeLanding,None,Families,Multifamily,New Construction,39103417300,10075000,45,Other1,"245,000.00",Permanent Financing Sources,Other
+157,HamiltonCrossingAnnex,None,Seniors,Multifamily,New Construction,39049009340,6154300,24,Deferred Developer Fee,"1,144,300.00",Construction Financing Sources,Deferred Developer Fee
+158,HamiltonCrossingAnnex,None,Seniors,Multifamily,New Construction,39049009340,6154300,24,Construction Loan,"3,560,000.00",Construction Financing Sources,Bank Loan
+159,HamiltonCrossingAnnex,None,Seniors,Multifamily,New Construction,39049009340,6154300,24,Other1,"200,000.00",Construction Financing Sources,Other
+160,HamiltonCrossingAnnex,None,Seniors,Multifamily,New Construction,39049009340,6154300,24,Other2,"1,250,000.00",Construction Financing Sources,Other
+161,HamiltonCrossingAnnex,None,Seniors,Multifamily,New Construction,39049009340,6154300,24,Tax Credit Equity,"5 ,214,300.00",Permanent Financing Sources,Tax Credit
+162,HamiltonCrossingAnnex,None,Seniors,Multifamily,New Construction,39049009340,6154300,24,Deferred Developer Fee,"4 0,000.00",Permanent Financing Sources,Deferred Developer Fee
+163,HamiltonCrossingAnnex,None,Seniors,Multifamily,New Construction,39049009340,6154300,24,"Permanent First Loan, Hard Debt","7 00,000.00",Permanent Financing Sources,Bank Loan
+164,HamiltonCrossingAnnex,None,Seniors,Multifamily,New Construction,39049009340,6154300,24,Other1,"2 00,000.00",Permanent Financing Sources,Other
+165,SidneyCrossing,None,Families,Multifamily,New Construction,39149972100,9023690,48,Tax Credit Equity,"250,000.00",Construction Financing Sources,Tax Credit
+166,SidneyCrossing,None,Families,Multifamily,New Construction,39149972100,9023690,48,HDAP,"260,000.00",Construction Financing Sources,State Housing Credit Equity
+167,SidneyCrossing,None,Families,Multifamily,New Construction,39149972100,9023690,48,Deferred Developer Fee,"800,000.00",Construction Financing Sources,Deferred Developer Fee
+168,SidneyCrossing,None,Families,Multifamily,New Construction,39149972100,9023690,48,Construction Loan,"6,463,690.00",Construction Financing Sources,Bank Loan
+169,SidneyCrossing,None,Families,Multifamily,New Construction,39149972100,9023690,48,OHFA HDL,"1,250,000.00",Construction Financing Sources,Other
+170,SidneyCrossing,None,Families,Multifamily,New Construction,39149972100,9023690,48,Tax Credit Equity,"7,221,278.00",Permanent Financing Sources,Tax Credit
+171,SidneyCrossing,None,Families,Multifamily,New Construction,39149972100,9023690,48,HDAP: OHTF/HOME,"300,000.00",Permanent Financing Sources,State Housing Credit Equity
+172,SidneyCrossing,None,Families,Multifamily,New Construction,39149972100,9023690,48,Deferred Developer Fee,"162,412.00",Permanent Financing Sources,Deferred Developer Fee
+173,SidneyCrossing,None,Families,Multifamily,New Construction,39149972100,9023690,48,"Permanent First Loan, Hard Debt","1,340,000.00",Permanent Financing Sources,Bank Loan
+174,FranklinManorSouth,Davis Bacon,Families,Multifamily,New Construction,39049008340,19202747,176,Tax Credit Equity,"2,290,500.00",Construction Financing Sources,Tax Credit
+175,FranklinManorSouth,Davis Bacon,Families,Multifamily,New Construction,39049008340,19202747,176,Construction Loan,"7,423,117.00",Construction Financing Sources,Bank Loan
+176,FranklinManorSouth,Davis Bacon,Families,Multifamily,New Construction,39049008340,19202747,176,Other1,"250,000.00",Construction Financing Sources,Other
+177,FranklinManorSouth,Davis Bacon,Families,Multifamily,New Construction,39049008340,19202747,176,Other2,"6,750,000.00",Construction Financing Sources,Other
+178,FranklinManorSouth,Davis Bacon,Families,Multifamily,New Construction,39049008340,19202747,176,Other5,"2,489,130.00",Construction Financing Sources,Other
+179,FranklinManorSouth,Davis Bacon,Families,Multifamily,New Construction,39049008340,19202747,176,Tax Credit Equity,"11,452,747.00",Permanent Financing Sources,Tax Credit
+180,FranklinManorSouth,Davis Bacon,Families,Multifamily,New Construction,39049008340,19202747,176,Permanent Second Loan,"7,500,000.00",Permanent Financing Sources,Bank Loan
+181,FranklinManorSouth,Davis Bacon,Families,Multifamily,New Construction,39049008340,19202747,176,Other1,"250,000.00",Permanent Financing Sources,Other
+182,OverlookApartments,None,Families,Multifamily,New Construction,39141956000,7496335,45,Tax Credit Equity,"1,376,705.00",Construction Financing Sources,Tax Credit
+183,OverlookApartments,None,Families,Multifamily,New Construction,39141956000,7496335,45,HDAP,"600,000.00",Construction Financing Sources,State Housing Credit Equity
+184,OverlookApartments,None,Families,Multifamily,New Construction,39141956000,7496335,45,Construction Loan,"4,269,130.00",Construction Financing Sources,Bank Loan
+185,OverlookApartments,None,Families,Multifamily,New Construction,39141956000,7496335,45,Other1,500,Construction Financing Sources,Other
+186,OverlookApartments,None,Families,Multifamily,New Construction,39141956000,7496335,45,Other2,"1,250,000.00",Construction Financing Sources,Other
+187,OverlookApartments,None,Families,Multifamily,New Construction,39141956000,7496335,45,Tax Credit Equity,"7,519,248.00",Permanent Financing Sources,Tax Credit
+188,OverlookApartments,None,Families,Multifamily,New Construction,39141956000,7496335,45,HDAP: OHTF/HOME,"600,000.00",Permanent Financing Sources,State Housing Credit Equity
+189,OverlookApartments,None,Families,Multifamily,New Construction,39141956000,7496335,45,Deferred Developer Fee,"174,367.00",Permanent Financing Sources,Deferred Developer Fee
+190,OverlookApartments,None,Families,Multifamily,New Construction,39141956000,7496335,45,"Permanent First Loan, Hard Debt","625,000.00",Permanent Financing Sources,Bank Loan
+191,OverlookApartments,None,Families,Multifamily,New Construction,39141956000,7496335,45,Other1,500,Permanent Financing Sources,Other
+192,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Tax Credit Equity,"127,752.00",Construction Financing Sources,Tax Credit
+193,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Construction Loan,"3,378,097.00",Construction Financing Sources,Bank Loan
+194,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Other1,"1,250,000.00",Construction Financing Sources,Other
+195,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Other2,"327,718.00",Construction Financing Sources,Other
+196,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Other3,"251,000.00",Construction Financing Sources,Other
+197,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Other4,"112,282.00",Construction Financing Sources,Other
+198,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Other5,"827,608.00",Construction Financing Sources,Other
+199,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Tax Credit Equity,"4,476,263.00",Permanent Financing Sources,Tax Credit
+200,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Deferred Developer Fee,"208,994.00",Permanent Financing Sources,Deferred Developer Fee
+201,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,"Permanent First Loan, Hard Debt","327,718.00",Permanent Financing Sources,Bank Loan
+202,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Permanent Second Loan,"112,282.00",Permanent Financing Sources,Bank Loan
+203,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Other1,"1,000,000.00",Permanent Financing Sources,Other
+204,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Other2,"1,000.00",Permanent Financing Sources,Other
+205,RachelCourt,None,Seniors,Multifamily,Rehabilitation,39023002701,6274457,48,Other3,"148,200.00",Permanent Financing Sources,Other
+206,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Tax Credit Equity,"2,819,718.00",Construction Financing Sources,Tax Credit
+207,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,HDAP,"540,000.00",Construction Financing Sources,State Housing Credit Equity
+208,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Deferred Developer Fee,"1,386,035.90",Construction Financing Sources,Deferred Developer Fee
+209,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Construction Loan,"7,000,000.00",Construction Financing Sources,Bank Loan
+210,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Other1,"250,000.00",Construction Financing Sources,Other
+211,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Other2,"500,000.00",Construction Financing Sources,Other
+212,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Other3,"250,000.00",Construction Financing Sources,Other
+213,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Other4,"100,000.00",Construction Financing Sources,Other
+214,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Other5,"1,000.00",Construction Financing Sources,Other
+215,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Tax Credit Equity,"9 ,399,060.00",Permanent Financing Sources,Tax Credit
+216,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,HDAP: OHTF/HOME,"6 00,000.00",Permanent Financing Sources,State Housing Credit Equity
+217,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Deferred Developer Fee,"7 41,693.90",Permanent Financing Sources,Deferred Developer Fee
+218,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,"Permanent First Loan, Hard Debt","8 5,000.00",Permanent Financing Sources,Bank Loan
+219,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Permanent Second Loan,"1 70,000.00",Permanent Financing Sources,Bank Loan
+220,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Other1,"1 ,000,000.00",Permanent Financing Sources,Other
+221,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Other2,"5 00,000.00",Permanent Financing Sources,Other
+222,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Other3,"2 50,000.00",Permanent Financing Sources,Other
+223,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Other4,"1 00,000.00",Permanent Financing Sources,Other
+224,BridgePointeCommons,Davis Bacon,Service Enriched,Multifamily,New Construction,39093070700,12846753,62,Other5,"1 ,000.00",Permanent Financing Sources,Other
+225,PrairieViewApartments,None,Seniors,Multifamily,Rehabilitation,39027964600,7672847,74,Tax Credit Equity,"187,828.00",Construction Financing Sources,Tax Credit
+226,PrairieViewApartments,None,Seniors,Multifamily,Rehabilitation,39027964600,7672847,74,Construction Loan,"4,709,536.00",Construction Financing Sources,Bank Loan
+227,PrairieViewApartments,None,Seniors,Multifamily,Rehabilitation,39027964600,7672847,74,Other1,"1,250,000.00",Construction Financing Sources,Other
+228,PrairieViewApartments,None,Seniors,Multifamily,Rehabilitation,39027964600,7672847,74,Other2,"249,750.00",Construction Financing Sources,Other
+229,PrairieViewApartments,None,Seniors,Multifamily,Rehabilitation,39027964600,7672847,74,Other4,"1,275,733.00",Construction Financing Sources,Other
+230,PrairieViewApartments,None,Seniors,Multifamily,Rehabilitation,39027964600,7672847,74,Tax Credit Equity,"6,363,630.00",Permanent Financing Sources,Tax Credit
+231,PrairieViewApartments,None,Seniors,Multifamily,Rehabilitation,39027964600,7672847,74,Deferred Developer Fee,"165,217.00",Permanent Financing Sources,Deferred Developer Fee
+232,PrairieViewApartments,None,Seniors,Multifamily,Rehabilitation,39027964600,7672847,74,Other1,"999,000.00",Permanent Financing Sources,Other
+233,PrairieViewApartments,None,Seniors,Multifamily,Rehabilitation,39027964600,7672847,74,Other2,"145,000.00",Permanent Financing Sources,Other
+234,CampbellLandingApartments,None,Families,Multifamily,New Construction,39091004600,8739288,52,DDF and Other,"1,660,175.09",Construction Financing Sources,Deferred Developer Fee
+235,CampbellLandingApartments,None,Families,Multifamily,New Construction,39091004600,8739288,52,Construction Loan,"5,829,113.03",Construction Financing Sources,Bank Loan
+236,CampbellLandingApartments,None,Families,Multifamily,New Construction,39091004600,8739288,52,Other1,"1,250,000.00",Construction Financing Sources,Other
+237,CampbellLandingApartments,None,Families,Multifamily,New Construction,39091004600,8739288,52,Tax Credit Equity,"7 ,222,000.00",Permanent Financing Sources,Tax Credit
+238,CampbellLandingApartments,None,Families,Multifamily,New Construction,39091004600,8739288,52,Deferred Developer Fee,"2 08,088.11",Permanent Financing Sources,Deferred Developer Fee
+239,CampbellLandingApartments,None,Families,Multifamily,New Construction,39091004600,8739288,52,"Permanent First Loan, Hard Debt","1 ,309,200.00",Permanent Financing Sources,Bank Loan
+240,ReidsValleyViewManor,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,13441236,114,Tax Credit Equity,"4,135,172.80",Construction Financing Sources,Tax Credit
+241,ReidsValleyViewManor,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,13441236,114,Deferred Developer Fee,"1,760,000.00",Construction Financing Sources,Deferred Developer Fee
+242,ReidsValleyViewManor,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,13441236,114,Construction Loan,"5,750,000.00",Construction Financing Sources,Bank Loan
+243,ReidsValleyViewManor,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,13441236,114,Other1,"546,063.20",Construction Financing Sources,Other
+244,ReidsValleyViewManor,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,13441236,114,Other2,"1,250,000.00",Construction Financing Sources,Other
+245,ReidsValleyViewManor,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,13441236,114,Tax Credit Equity,"7,518,496.00",Permanent Financing Sources,Tax Credit
+246,ReidsValleyViewManor,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,13441236,114,Deferred Developer Fee,"172,740.00",Permanent Financing Sources,Deferred Developer Fee
+247,ReidsValleyViewManor,Davis Bacon,Families,Multifamily,Rehabilitation,39061007700,13441236,114,"Permanent First Loan, Hard Debt","5,750,000.00",Permanent Financing Sources,Bank Loan
+248,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,Tax Credit Equity,"1,954,171.00",Construction Financing Sources,Tax Credit
+249,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,Deferred Developer Fee,"375,000.00",Construction Financing Sources,Deferred Developer Fee
+250,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,OHFA HDL,"1,250,000.00",Construction Financing Sources,Other
+251,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,Acquired Reserves,"88,141.00",Construction Financing Sources,Other
+252,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,Construction Period Income,"56,009.00",Construction Financing Sources,Other
+253,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,Seller Note,"344,146.00",Construction Financing Sources,Bank Loan
+254,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,Tax Credit Equity,"2,432,795.00",Permanent Financing Sources,Tax Credit
+255,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,Deferred Developer Fee,"56,130.00",Permanent Financing Sources,Deferred Developer Fee
+256,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,"Permanent First Loan, Hard Debt","840,247.00",Permanent Financing Sources,Bank Loan
+257,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,Seller Note,"344,146.00",Permanent Financing Sources,Bank Loan
+258,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,Stark County HOME,"250,000.00",Permanent Financing Sources,Local Grant
+259,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,Construction Period Income,"56,008.00",Permanent Financing Sources,Other
+260,MayflowerApartments,None,Seniors,Multifamily,Rehabilitation,39151714000,4067567,25,Acquired Reserves,"88,141.00",Permanent Financing Sources,Other
+261,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,HDAP,"300,000.00",Construction Financing Sources,State Housing Credit Equity
+262,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,Deferred Developer Fee,"1,410,000.00",Construction Financing Sources,Deferred Developer Fee
+263,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,Construction Loan,"6,765,000.00",Construction Financing Sources,Bank Loan
+264,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,Other1,"300,000.00",Construction Financing Sources,Other
+265,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,Other2,"275,000.00",Construction Financing Sources,Other
+266,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,Other3,"1,250,000.00",Construction Financing Sources,Other
+267,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,Tax Credit Equity,"8,280,000.00",Permanent Financing Sources,Tax Credit
+268,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,HDAP: OHTF/HOME,"300,000.00",Permanent Financing Sources,State Housing Credit Equity
+269,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,Deferred Developer Fee,"45,000.00",Permanent Financing Sources,Deferred Developer Fee
+270,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,"Permanent First Loan, Hard Debt","1,225,000.00",Permanent Financing Sources,Bank Loan
+271,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,Other1,"300,000.00",Permanent Financing Sources,Other
+272,KenlawnPlace,None,Families,Multifamily,New Construction,39049000820,10300000,50,Other2,"150,000.00",Permanent Financing Sources,Other
+273,BucyrusManorApartments,None,Seniors,Multifamily,Rehabilitation,39033974300,4927349,32,Tax Credit Equity,"81,250.00",Construction Financing Sources,Tax Credit
+274,BucyrusManorApartments,None,Seniors,Multifamily,Rehabilitation,39033974300,4927349,32,Construction Loan,"2,980,189.00",Construction Financing Sources,Bank Loan
+275,BucyrusManorApartments,None,Seniors,Multifamily,Rehabilitation,39033974300,4927349,32,Other2,"1,250,000.00",Construction Financing Sources,Other
+276,BucyrusManorApartments,None,Seniors,Multifamily,Rehabilitation,39033974300,4927349,32,Other3,"615,910.00",Construction Financing Sources,Other
+277,BucyrusManorApartments,None,Seniors,Multifamily,Rehabilitation,39033974300,4927349,32,Tax Credit Equity,"3,697,225.00",Permanent Financing Sources,Tax Credit
+278,BucyrusManorApartments,None,Seniors,Multifamily,Rehabilitation,39033974300,4927349,32,Deferred Developer Fee,"155,000.00",Permanent Financing Sources,Deferred Developer Fee
+279,BucyrusManorApartments,None,Seniors,Multifamily,Rehabilitation,39033974300,4927349,32,Permanent Second Loan,"860,000.00",Permanent Financing Sources,Bank Loan
+280,BucyrusManorApartments,None,Seniors,Multifamily,Rehabilitation,39033974300,4927349,32,Other1,"215,124.00",Permanent Financing Sources,Other
+281,HawthornLandingApartments,None,Families,Multifamily,New Construction,39057200103,11537018,68,DDF & Other,"2,025,739.15",Construction Financing Sources,Deferred Developer Fee
+282,HawthornLandingApartments,None,Families,Multifamily,New Construction,39057200103,11537018,68,Construction Loan,"8,261,279.35",Construction Financing Sources,Bank Loan
+283,HawthornLandingApartments,None,Families,Multifamily,New Construction,39057200103,11537018,68,Other1,"1,250,000.00",Construction Financing Sources,Other
+284,HawthornLandingApartments,None,Families,Multifamily,New Construction,39057200103,11537018,68,Tax Credit Equity,"8,963,500.00",Permanent Financing Sources,Tax Credit
+285,HawthornLandingApartments,None,Families,Multifamily,New Construction,39057200103,11537018,68,Deferred Developer Fee,"233,518.51",Permanent Financing Sources,Deferred Developer Fee
+286,HawthornLandingApartments,None,Families,Multifamily,New Construction,39057200103,11537018,68,"Permanent First Loan, Hard Debt","2,340,000.00",Permanent Financing Sources,Bank Loan
+287,SlavicVillageGateway,None,Families,Multifamily,New Construction,39035110501,14585763,18,Tax Credit Equity,"2 ,315,763.00",Construction Financing Sources,Tax Credit
+288,SlavicVillageGateway,None,Families,Multifamily,New Construction,39035110501,14585763,18,Construction Loan,"11,325,000.00",Construction Financing Sources,Bank Loan
+289,SlavicVillageGateway,None,Families,Multifamily,New Construction,39035110501,14585763,18,City of Cleveland Funds,"5 40,000.00",Construction Financing Sources,Local Grant
+290,SlavicVillageGateway,None,Families,Multifamily,New Construction,39035110501,14585763,18,Cuyahoga County Funds,"4 05,000.00",Construction Financing Sources,Other
+291,SlavicVillageGateway,None,Families,Multifamily,New Construction,39035110501,14585763,18,Tax Credit Equity,"11,578,815.00",Permanent Financing Sources,Tax Credit
+292,SlavicVillageGateway,None,Families,Multifamily,New Construction,39035110501,14585763,18,Deferred Developer Fee,"165,101.00",Permanent Financing Sources,Deferred Developer Fee
+293,SlavicVillageGateway,None,Families,Multifamily,New Construction,39035110501,14585763,18,"Permanent First Loan, Hard Debt","3,525,000.00",Permanent Financing Sources,Bank Loan
+294,SlavicVillageGateway,None,Families,Multifamily,New Construction,39035110501,14585763,18,City of Cleveland Funds,"600,000.00",Permanent Financing Sources,Local Grant
+295,SlavicVillageGateway,None,Families,Multifamily,New Construction,39035110501,14585763,18,Cuyahoga County Funds,"450,000.00",Permanent Financing Sources,Other
+296,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Tax Credit Equity,"1,126,872.00",Construction Financing Sources,Tax Credit
+297,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Deferred Developer Fee,"119,659.00",Construction Financing Sources,Deferred Developer Fee
+298,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Construction Loan,"11,250,000.00",Construction Financing Sources,Bank Loan
+299,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Other1,"1,250,000.00",Construction Financing Sources,Other
+300,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Other2,"150,000.00",Construction Financing Sources,Other
+301,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Other3,"1,000.00",Construction Financing Sources,Other
+302,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Other4,"5,000.00",Construction Financing Sources,Other
+303,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Other5,"821,848.00",Construction Financing Sources,Other
+304,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Tax Credit Equity,"1 1,268,720.00",Permanent Financing Sources,Tax Credit
+305,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Deferred Developer Fee,"1 19,659.00",Permanent Financing Sources,Deferred Developer Fee
+306,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,"Permanent First Loan, Hard Debt","2 ,000,000.00",Permanent Financing Sources,Bank Loan
+307,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Permanent Second Loan,"3 00,000.00",Permanent Financing Sources,Bank Loan
+308,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Other1,"8 80,000.00",Permanent Financing Sources,Other
+309,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Other2,"1 50,000.00",Permanent Financing Sources,Other
+310,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Other3,"1 ,000.00",Permanent Financing Sources,Other
+311,SpringStreetSeniorLofts,None,Seniors,Multifamily,New Construction,39003013300,14724379,88,Other4,"5 ,000.00",Permanent Financing Sources,Other
